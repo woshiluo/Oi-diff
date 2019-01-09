@@ -2,7 +2,7 @@
 
 > 一个 Oi 自用对拍程序
 
-<img src="https://img.shields.io/badge/Author-woshiluo-blue.svg??style=flat-square&logo=appveyor"/>
+<img src="https://img.shields.io/badge/Author-woshiluo-blue.svg?style=flat-square"/>
 
 ```
 gen.cpp 数据生成器
